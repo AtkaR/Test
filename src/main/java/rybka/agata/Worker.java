@@ -5,4 +5,5 @@ package rybka.agata;
  */
 public class Worker {
     private double salary;
+    private int daysOff;
 }
